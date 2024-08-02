@@ -1,0 +1,8 @@
+body{
+    background-image: url(Imag/Fondo\ de\ luna.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    text-align: center;
+}
